@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "myprotfolio-eb427",
+    "deployment": "myprotfolio-eb427"
+  },
+  "targets": {},
+  "etags": {}
+}

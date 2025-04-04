@@ -1,0 +1,10 @@
+{
+  "hosting": {
+    "public": "rohankatwal",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
